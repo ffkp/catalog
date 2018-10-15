@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fffkp%2Fcatalog.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fffkp%2Fcatalog?ref=badge_shield)
+
 This is the Commons Machinery metadata catalog. It stores Media Annotations
 (metadata) for creative works and supports lookup by URI or by perceptual
 hashes (for images).
@@ -184,3 +186,7 @@ Get a work:
     curl --user test: -H 'Accept: application/json' http://localhost:8004/works/542af1de876096426387c9a1
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fffkp%2Fcatalog.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fffkp%2Fcatalog?ref=badge_large)
