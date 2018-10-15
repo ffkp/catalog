@@ -44,7 +44,7 @@
     "supertest": "0.x.x",
     "parse-links": "*"
   },
-  "license": "AGPLv3",
+  "license": "MIT",
   "amd": {},
   "volo": {
     "baseUrl": "./frontend/public/lib",
