@@ -21,6 +21,7 @@
     "express": "4.x",
     "express-persona": "0.1.1",
     "express-session": "1.x",
+    "hatchjs": "*",
     "hmsearch": "*",
     "jade": "1.5.x",
     "jquery": "^2.1.1",
